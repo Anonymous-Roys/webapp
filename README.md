@@ -1,3 +1,5 @@
+![TABLE IMAGE](./FINALLY.png)
+
 # Here's how I connected a web app with Aurora! 💪
 
 🥫 **Spun up an Aurora MySQL Database from scratch.**
